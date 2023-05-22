@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773159966781",
+    "project_id": "day-note",
+    "storage_bucket": "day-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773159966781:android:0a472d326d7585a719f254",
+        "android_client_info": {
+          "package_name": "com.example.uas_pemro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773159966781-i9licsefc3m5kbks9lk85eka4kkonjnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_oz-QNq54rWzQbXITHFi7E-uCUpQYNOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773159966781-i9licsefc3m5kbks9lk85eka4kkonjnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
