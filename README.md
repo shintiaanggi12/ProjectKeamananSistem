@@ -1,11 +1,16 @@
-DayNote
+# uas_pemro
 
-1. Silva Anggraini (192410102032)
+A new Flutter project.
 
-https://github.com/silvanggraini
+## Getting Started
 
-2. Shintia Anggi D.P. (192410102058)
+This project is a starting point for a Flutter application.
 
-https://github.com/shintiaanggi12
+A few resources to get you started if this is your first Flutter project:
 
-Aplikasi DayNote adalah sebagai aplikasi pencatatan daily activity(schadule) dan diary(note). Dengan harapan aplikasi ini dapat membantu untuk meminimalisir barang bawaan, seperti buku catatan dan bulpoin. 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
